@@ -1,6 +1,6 @@
-"Olá, meu nome é Rian Junio Euzébio Ribeiro. "
-"✨ Olá, seja bem-vindo ao meu perfil!"
-"🚀 Desenvolvedor apaixonado por tecnologia."
+Olá, meu nome é Rian Junio Euzébio Ribeiro.
+✨ Olá, seja bem-vindo ao meu perfil!
+🚀 Desenvolvedor apaixonado por tecnologia.
 
 ## Minhas Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rian-Ribeiro&show_icons=true&theme=dark)
