@@ -3,10 +3,10 @@
 "🚀 Desenvolvedor apaixonado por tecnologia."
 
 ## Minhas Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rian-Ribeiro&show_icons=true&theme=dark)
 
 ## Linguagens mais usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ribeiro&layout=compact&theme=dark)
 
 ## Linguagens
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
