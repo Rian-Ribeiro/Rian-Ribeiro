@@ -1,6 +1,6 @@
-Olá, meu nome é Rian Junio Euzébio Ribeiro.
-✨ Olá, seja bem-vindo ao meu perfil!
-🚀 Desenvolvedor apaixonado por tecnologia.
+<p>Olá, meu nome é Rian Junio Euzébio Ribeiro.<br>
+✨ Olá, seja bem-vindo ao meu perfil!<br>
+🚀 Desenvolvedor apaixonado por tecnologia.</p>
 
 ## Minhas Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rian-Ribeiro&show_icons=true&theme=dark)
