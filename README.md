@@ -37,12 +37,14 @@
 
 ---
 
-## 🌐 Onde me Encontrar
-<p align="center">
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 🛠️ Ferramentas & Tecnologias
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</div>
+
+
+---
+## 🚀 Projetos Destacados
