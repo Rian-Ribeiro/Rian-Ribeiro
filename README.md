@@ -1,18 +1,42 @@
-<p>Olá, meu nome é Rian Junio Euzébio Ribeiro.<br>
-✨ Olá, seja bem-vindo ao meu perfil!<br>
-🚀 Desenvolvedor apaixonado por tecnologia.</p>
+<h1 align="center">Olá, meu nome é Rian Junio Euzébio Ribeiro! 👋</h1>
+<p align="center">
+✨ Bem-vindo ao meu perfil no GitHub!<br>
+🚀 Sou um desenvolvedor apaixonado por tecnologia e inovação.
+</p>
 
-## Minhas Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rian-Ribeiro&show_icons=true&theme=dark)
+---
 
-## Linguagens mais usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ribeiro&layout=compact&theme=dark)
+## 🌟 Sobre Mim
+- 🔭 Atualmente, trabalho em projetos desafiadores para melhorar minhas habilidades.
+- 🌱 Sempre aprendendo algo novo, principalmente sobre **JavaScript**, **React** e **desenvolvimento web**.
+- 💬 Vamos conversar sobre desenvolvimento, tecnologia ou qualquer outra coisa interessante!
+- 📫 Contato: **[rianeuzebioribeiro@outlook.com.br](mailto:rianeuzebioribeiro@outlook.com.br)**
 
-## Linguagens
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+---
 
-## Links
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+## 📊 Minhas Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rian-Ribeiro&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ribeiro&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+---
+
+## 💻 Tecnologias que Uso
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+</p>
+
+---
+
+## 🌐 Onde me Encontrar
+<p align="center">
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
