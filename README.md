@@ -15,10 +15,16 @@
 ---
 
 ## 📊 Minhas Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rian-Ribeiro&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ribeiro&layout=compact&theme=dark&hide_border=true" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rian-Ribeiro&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Minhas%20Estatísticas" alt="Estatísticas do GitHub" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Ribeiro&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Linguagens Mais Usadas" />
+    </td>
+  </tr>
+</table>
 
 ---
 
